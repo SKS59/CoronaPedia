@@ -1,39 +1,39 @@
 state,confirmed,recovered,deaths,active
-Maharashtra,16758,3094,651,13013
-Gujarat,6625,1500,396,4729
-Delhi,5104,1468,65,3571
-Tamil Nadu,4829,1516,35,3278
-Rajasthan,3240,1536,90,1614
-Madhya Pradesh,3138,1099,185,1854
-Uttar Pradesh,2998,987,56,1955
-Andhra Pradesh,1777,729,36,1012
-Punjab,1526,135,27,1364
-West Bengal,1456,265,144,1047
-Telangana,1107,648,29,430
-Jammu and Kashmir,775,322,8,445
-Karnataka,693,354,29,309
-Haryana,594,260,6,328
-Bihar,541,188,4,349
-Kerala,503,469,4,30
-Odisha,185,61,2,122
-Jharkhand,127,37,3,87
-Chandigarh,124,21,1,102
-Uttarakhand,61,39,1,21
-Chhattisgarh,59,36,0,23
-Assam,45,35,1,9
-Ladakh,42,17,0,25
-Himachal Pradesh,43,34,3,3
-Andaman and Nicobar Islands,33,32,0,1
-Tripura,42,2,0,40
-Meghalaya,12,10,1,1
-Puducherry,9,6,0,3
-Goa,7,7,0,0
-Manipur,2,2,0,0
-Mizoram,1,1,0,0
-Arunachal Pradesh,1,1,0,0
-Nagaland,0,0,0,0
-Dadra and Nagar Haveli and Daman and Diu,1,0,0,1
-Daman and Diu,0,0,0,0
+Maharashtra,1648665,1470660,43348,134137
+Andhra Pradesh,808924,773548,6606,28770
+Karnataka,805947,719558,10947,75423
+Tamil Nadu,711713,671489,10956,29268
+Uttar Pradesh,472068,438512,6902,26654
+Delhi,359488,327390,6312,25786
+Kerala,397218,302017,1353,93745
+West Bengal,353822,310086,6546,37190
+Odisha,282695,266105,1312,15278
+Telangana,231834,211912,1311,18611
+Bihar,212705,202007,1058,9639
+Assam,204386,188584,908,14891
+Rajasthan,188048,169962,1853,16233
+Gujarat,168081,150750,3693,13638
+Madhya Pradesh,167969,154222,2890,10857
+Chhattisgarh,177608,153654,1861,22093
+Haryana,159457,147566,1737,10154
+Punjab,131391,123047,4125,4219
+Jharkhand,99906,93368,872,5666
+Jammu and Kashmir,92225,83485,1444,7296
+Uttarakhand,60744,55188,1001,4080
+Goa,42532,39433,582,2517
+Puducherry,34336,29990,588,3758
+Tripura,30254,28046,340,1845
+Himachal Pradesh,20586,17760,288,2508
+Manipur,17424,13057,144,4223
+Chandigarh,14085,13230,222,633
+Arunachal Pradesh,14391,12182,35,2174
+Meghalaya,9020,7332,81,1604
+Nagaland,8663,6720,27,1833
+Ladakh,5978,5216,71,691
+Andaman and Nicobar Islands,4253,3997,58,198
+Sikkim,3840,3448,65,245
+Dadra and Nagar Haveli and Daman and Diu,3226,3147,2,51
+Mizoram,2493,2209,0,284
+State Unassigned,0,0,0,0
 Lakshadweep,0,0,0,0
-Sikkim,0,0,0,0
-Total,52458,14911,1777,35766
+Total,7945975,7198877,119538,626192

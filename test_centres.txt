@@ -1,0 +1,158 @@
+Andhra Pradesh,4
+ Sri Venkateswara Institute of Medical Sciences, Tirupati
+ Rangaraya Medical College, Kakinada
+ Sidhartha Medical College, Vijaywada
+ Govt. Medical College, Ananthpur
+Assam,5
+ Gauhati Medical College, Guwahati
+ Regional Medical Research Center, Dibrugarh
+ Jorhat Medical College, Jorhat
+ Silchar Medical College, Silchar
+ Fakkhruddin Ali Ahmed Medical College, Barpeta
+Bihar,4
+ Rajendra Memorial Research Institute of Medical Sciences, Patna
+ Indira Gandhi Institute Medical Sciences, Patna
+ Patna Medical College, Patna
+ Darbhanga Medical College, Darbhanga
+Chandigarh,2
+ Post Graduate Institute of Medical Education & Research, Chandigarh
+ Govt. Medical College, Chandigarh
+Chhattisgarh,2
+ All India Institute of Medical Sciences, Raipur
+ Late Baliram Kashyap M Govt. Medical College, Jagdalpur
+Delhi,6
+ All India Institute Medical Sciences
+ Lady Hardinge Medical College
+ National Centre for Disease Control
+ Ram Manohar Lohia Hospital
+ Institute of Liver & Biliary Sciences
+ Army Hospital Research & Referral
+Gujarat,6
+ BJ Medical College, Ahmedabad
+ MP Shah Govt Medical College, Jamnagar
+ Govt. Medical College, Surat
+ Govt. Medical College, Bhavnagar
+ Govt. Medical College, Vadodara
+ Govt. Medical College, Rajkot
+Goa,1
+ Goa Medical College, Goa
+Haryana,2
+ Pt. B.D. Sharma Post Graduate Inst. of Med. Sciences, Rohtak, Haryana
+ BPS Govt. Medical College, Sonipat
+Himachal Pradesh,2
+ Indira Gandhi Medical College, Shimla
+ Dr. Rajendra Prasad Govt. Medical College, Tanda
+Jammu and Kashmir,4
+ Govt. Medical College, Jammu
+ Command Hospital (NC) Udhampur
+ SheriKashmir Institute of Medical Sciences, Srinagar
+ Govt. Medical College, Srinagar
+Jharkhand,2
+ MGM Medical College & Hospital, Jamshedpur
+ Rajendra Institute of Medical Sciences, Ranchi
+Karnataka,7
+ Hassan Inst. of Med. Sciences, Hassan
+ Mysore Medical College & Research Institute, Mysore
+ Shivamogga Institute of Medical Sciences, Shivamogga
+ Command Hospital (Air Force), Bengaluru
+ Bangalore Medical College & Research Institute, Bengaluru
+ National Institute of Virology, Bangalore Field Unit, Bengaluru
+ Gulbarga Institute of Medical Sciences, Gulbarga
+Kerala,10
+ National Institute of Virology, Field Unit, Allapuzzha
+ Govt. Medical College, Thiruvanathapuram
+ Govt. Medical College, Kozhikode
+ Govt. Medical College, Thrissur
+ Rajiv Gandhi Center for Biotechnology, Thiruvanathapuram
+ Sree Chitra Tirunal Institute of Medical Sciences, Thiruvanathapuram
+ State Public Health Laboratory, Trivandrum
+ Inter University, Kottayam
+ Malabar Cancer Center, Thalassery
+ Central University of Kerala, Periye, Kasaragod
+Maharashtra,13
+ National Institute of Virology, Pune
+ Seth GS Medical College & KEM Hospital, Mumbai
+ Kasturba Hospital for Infectious Diseases, Mumbai
+ National Institute of Virology Field Unit, Mumbai
+ Armed Forces Medical College, Pune
+ BJ Medical College, Pune
+ Indira Gandhi Govt. Medical College, Nagpur
+ Grant Medical College & Sir JJ Hospital, Mumbai
+ Govt. Medical College, Aurangabad
+ V. M. Government Medical College, Solapur
+ Haffkine Institute, Mumbai
+ Shree Bhausaheb Hire Govt. Medical College, Dhule
+ Government Medical College, Miraj
+Madhya Pradesh,4
+ All India Institute of Medical Sciences, Bhopal
+ National Institute for Research on Tribal Health, Jabalpur
+ Mahatma Gandhi Memorial Medical College, Indore
+ Gandhi Medical College, Bhopal
+Manipur,2
+ Jawaharlal Nehru Institute of Med. Sciences, Imphal East, Manipur
+ Regional Institute of Medical Sciences, Imphal
+Meghalaya,1
+ North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences, Shillong, Meghalaya
+Odisha,3
+ Regional Medical Research Centre, Bhubaneshwar
+ All India Institute of Medical Sciences, Bhubaneshwar
+ SCB Medical College and Hospital, Cuttack
+Puducherry,1
+ Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry
+Punjab,2
+ Govt. Medical College, Amritsar
+ Govt. Medical College, Patiala
+Rajasthan,8
+ Sawai Man Singh Medical College, Jaipur
+ Dr. Sampurnan and Medical College, Jodhpur
+ Jhalawar Medical College, Jhalawar
+ RNT Medical College, Udaipur
+ SP Medical College, Bikaner
+ All India Institute of Medical Sciences, Jodhpur
+ JLN Medical College, Ajmer
+ Govt. Medical College, Kota
+Tamil Nadu,10
+ King Institute of Preventive Medicine & Research, Chennai
+ Madras Medical College, Chennai
+ Govt. Theni Medical College, Theni
+ Tirunelveli Medical College, Tirunelveli
+ Govt. Medical College, Thiruvarur
+ Kumar Mangalam Govt. Medical College, Salem
+ Coimbatore Medical College, Coimbatore
+ Govt. Medical College, Villupuram
+ Madurai Medical College, Madurai
+ K A P Viswanatham Govt. Medical College, Trichy
+Telangana,5
+ Gandhi Medical College, Secunderabad
+ Osmania Medical College, Hyderabad
+ Sir Ronald Ross of Tropical & Communicable Diseases, Hyderabad
+ Nizam’s Institute of Medical Sciences, Hyderabad
+ Institute of Preventive Medicine, Hyderabad
+Tripura,1
+ Government Medical College, Agartala 
+Uttar Pradesh,8
+ King George Medical University, Lucknow
+ Institute of Medical Sciences, Banaras Hindu University, Varanasi
+ Jawaharlal Nehru Medical College, Aligarh
+ Command Hospital, Lucknow
+ Lala Lajpat Rai Memorial Medical College, Meerut
+ Sanjay Gandhi Post Graduate Institute, Lucknow
+ Uttar Pradesh University of Medical Sciences (Formerly Uttar Pradesh RIMS), Saifai
+ Regional Medical Research Centre, Gorakhpur
+Uttarakhand,2
+ Govt. Medical College, Haldwani
+ All India Institute of Medical Sciences, Rishikesh
+West Bengal,5
+ National Institute of Cholera & Enteric Diseases, Kolkata
+ Institute of Post Graduate Medical Education & Research, Kolkata
+ Midnapore Medical College, Midnapore
+ North Bengal Medical College, Darjeeling
+ School of Tropical Medicine, Kolkata
+Andaman and Nicobar,1
+ Regional Medical Research Centre, Port Blair
+Sikkim,1
+ Sir Thutob Namgyal Memorial (STNM), Gangtok
+Ladakh,1
+ Sonam Norboo Memorial Hospital (SNMH), Leh
+Arunachal Pradesh,1
+ Tomo Riba Institute of Health & Medical Sciences (TRIHMS), Naharlagun
